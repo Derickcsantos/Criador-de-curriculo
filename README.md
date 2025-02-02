@@ -5,7 +5,7 @@
 📄 **Crie um currículo que ganhe entrevistas!**  
 Com ferramentas avançadas de criação, nosso sistema permite que você conte sua história profissional de uma maneira envolvente e impactante para recrutadores, gerentes de contratação e até CEOs.
 
-🔗 Acesse o Criador de Currículos agora: [Criador de Currículos](https://criadordecurriculos-dcs.vercel.app)
+🔗 Acesse o Criador de Currículos agora: [Criador de Currículos](https://criador-de-curriculo-dcs.vercel.app)
 
 ---
 
@@ -29,7 +29,7 @@ Escrever um currículo nunca foi tão fácil! Com o nosso criador de currículos
 
 ## Como usar o Criador de Currículos 📑
 
-1. Acesse o [Criador de Currículos](https://criadordecurriculos-dcs.vercel.app).
+1. Acesse o [Criador de Currículos](https://criador-de-curriculo-dcs.vercel.app).
 2. Preencha suas informações profissionais e pessoais nas seções fornecidas.
 3. Escolha um design visual atraente e finalize a personalização.
 4. Baixe o currículo pronto e pronto para ser enviado!
