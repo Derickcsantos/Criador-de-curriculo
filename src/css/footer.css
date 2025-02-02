@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    text-decoration: none;
+    list-style: none
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh
+}
+
+main {
+    flex: 1;
+    padding: 20px
+}
+
+.footer-bottom {
+    background: var(--cor-blue);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 40px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.row-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px
+}
+
+.footer-col {
+    width: 100%;
+    max-width: 300px;
+    padding: 0 10px;
+    margin-bottom: 20px
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    color: var(--cor-blue-dark);
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    font-weight: 700;
+    position: relative
+}
+
+.footer-col h4::before {
+    content: '';
+    position: absolute;
+    left: 40%;
+    bottom: -5px;
+    background-color: #fff;
+    height: 2px;
+    width: 50px
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+.footer-col ul li {
+    margin-bottom: 10px
+}
+
+.footer-col ul li a {
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+    transition: color 0.3s ease,padding 0.3s ease
+}
+
+.footer-col ul li a:hover {
+    color: #bbb;
+    padding: 8px
+}
+
+.footer-col .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px
+}
+
+.footer-col .social-links a {
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #fff;
+    transition: background-color 0.5s ease,color 0.5s ease
+}
+
+.footer-col .social-links a:hover {
+    background-color: #fff;
+    color: var(--cor-dark)
+}
+
+.copy {
+    background-color: var(--cor-blue);
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 40px;
+    text-align: center
+}
+
+.copy p {
+    margin: 0
+}
+
+.marketing {
+    color: #fff;
+    text-decoration: underline
+}
