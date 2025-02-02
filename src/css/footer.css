@@ -82,7 +82,7 @@ main {
 }
 
 .footer-col ul li a:hover {
-    color: #bbb;
+    color: var(--cor-dark);
     padding: 8px
 }
 
